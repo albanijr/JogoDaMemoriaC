@@ -1,2 +1,6 @@
-# JogoDaMemoriaC
-Jogo da memoria feito em C
+# Jogo Da Memoria C
+
+~CUIDADO Trabalho do Primeiro Semestre~
+
+Jogo da Memoria feito em C.
+
