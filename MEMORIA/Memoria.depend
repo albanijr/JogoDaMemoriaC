@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1403717700 source:/home/rodrigowue/Área de Trabalho/MEMORIA 1.0/dicacol.c
+
+1403717700 source:/home/rodrigowue/Área de Trabalho/MEMORIA 1.0/dicalin.c
+
+1403715649 source:/home/rodrigowue/Área de Trabalho/MEMORIA 1.0/dicaviz.c
+
+1403718933 source:/home/rodrigowue/Área de Trabalho/MEMORIA 1.0/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"header.h"
+
+1403717466 /home/rodrigowue/Área de Trabalho/MEMORIA 1.0/header.h
+
+1403717700 source:/home/PORTOALEGRE/14104167/DriveH/MEMORIA 1.0/dicacol.c
+
+1403717700 source:/home/PORTOALEGRE/14104167/DriveH/MEMORIA 1.0/dicalin.c
+
+1403715650 source:/home/PORTOALEGRE/14104167/DriveH/MEMORIA 1.0/dicaviz.c
+
+1403718934 source:/home/PORTOALEGRE/14104167/DriveH/MEMORIA 1.0/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"header.h"
+
+1403717466 /home/PORTOALEGRE/14104167/DriveH/MEMORIA 1.0/header.h
+
+1403717700 source:/home/PORTOALEGRE/14104167/DriveH/laproI/MEMORIA 1.0/dicacol.c
+
+1403717700 source:/home/PORTOALEGRE/14104167/DriveH/laproI/MEMORIA 1.0/dicalin.c
+
+1403715650 source:/home/PORTOALEGRE/14104167/DriveH/laproI/MEMORIA 1.0/dicaviz.c
+
+1404306027 source:/home/PORTOALEGRE/14104167/DriveH/laproI/MEMORIA 1.0/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"header.h"
+
+1403717466 /home/PORTOALEGRE/14104167/DriveH/laproI/MEMORIA 1.0/header.h
+
